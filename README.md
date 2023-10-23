@@ -1,4 +1,4 @@
-### jamad.github.io/
+### [jamad.github.io/](https://jamad.github.io/)
 
 <!--
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
