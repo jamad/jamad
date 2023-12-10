@@ -1,6 +1,6 @@
 ### [jamad.github.io/](https://jamad.github.io/)
 
-* [最近の更新](https://github.com/jamad/practicePython/issues )
+* [recent update](https://github.com/jamad/practicePython/issues )
 <!--
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
