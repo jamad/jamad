@@ -1,22 +1,12 @@
 ### [webpag jamad.github.io/](https://jamad.github.io/)
 
-### [最近更新したissues](https://github.com/jamad/practicePython/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+* 🌱 
+  * https://jamad.github.io/mytools/image_filter
+  * https://jamad.github.io/mytools/image_adjuster
+  * https://jamad.github.io/mytools/layout_test
 
-* https://jamad.github.io/mytools/image_filter
-* https://jamad.github.io/mytools/image_adjuster
-* https://jamad.github.io/mytools/layout_test
+### [最近更新したissues](https://github.com/jamad/practicePython/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
 <!--
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
