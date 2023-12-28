@@ -4,6 +4,7 @@
 
 * https://jamad.github.io/mytools/image_filter
 * https://jamad.github.io/mytools/image_adjuster
+* https://jamad.github.io/mytools/layout_test
 
 <!--
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
