@@ -1,7 +1,7 @@
 ### [webpag jamad.github.io/](https://jamad.github.io/)
 
 * 🌱 https://github.com/jamad/jamad.github.io/tree/master/mytools
-  * 済　https://jamad.github.io/mytools/image_filter　
+  * 済　https://jamad.github.io/mytools/image_filter
   * 済　https://jamad.github.io/mytools/image_adjuster
   * 済　https://jamad.github.io/mytools/layout_test
   * 未　https://jamad.github.io/mytools/apply_filter
