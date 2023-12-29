@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
 * 🌱 https://github.com/jamad/jamad.github.io/tree/master/mytools
