@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
 
+編集は[ここ](https://github.com/jamad/jamad/edit/main/README.md)から
+
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
 * 🌱 https://github.com/jamad/jamad.github.io/tree/master/mytools
