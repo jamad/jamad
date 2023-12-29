@@ -10,6 +10,7 @@
 
 ### [https://codepen.io/your-work/](https://codepen.io/your-work/)
 
+### [画像フィルタ by Gradio (ver1)](https://huggingface.co/spaces/juyam/image_adjuster)
 <!--
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
