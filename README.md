@@ -17,6 +17,7 @@
 **jamad/jamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* quick note
+##### quick note (後で読む)
 * [chat.godotengine.org](https://chat.godotengine.org/channel/announcements) 
 * [udonarium](https://github.com/TK11235/udonarium)
+* `https://qiita.com/whitphx/items/f37216ab2392ab359f11`
