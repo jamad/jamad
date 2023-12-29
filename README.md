@@ -1,4 +1,4 @@
-### [webpag jamad.github.io/](https://jamad.github.io/)
+### [webpage jamad.github.io/](https://jamad.github.io/)
 
 * 🌱 https://github.com/jamad/jamad.github.io/tree/master/mytools
   * 済　https://jamad.github.io/mytools/image_filter
