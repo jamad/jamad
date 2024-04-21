@@ -2,6 +2,8 @@
 
 編集は[ここ](https://github.com/jamad/jamad/edit/main/README.md)から
 
+* devlog 統合しないと、、、、　https://jamad.github.io/devlog/
+
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
 * 🌱 https://github.com/jamad/jamad.github.io/tree/master/mytools
