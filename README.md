@@ -12,6 +12,9 @@
   * [x] https://jamad.github.io/mytools/layout_test
   * [ ] https://jamad.github.io/mytools/apply_filter
 
+### 作成したGist
+* https://gist.github.com/jamad
+
 ### [最近更新したissues](https://github.com/jamad/practicePython/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
 ### [画像フィルタ by Gradio (ver1)](https://huggingface.co/spaces/juyam/image_adjuster)
