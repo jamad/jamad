@@ -4,7 +4,7 @@
 
 
 * devlog 統合しないと、、、、　https://jamad.github.io/devlog/
-* あと　`https://github.com/Watfaq/PowerSession` ひいては `https://github.com/chris17453/ttygif/`を試そう
+* あと　`https://www.cockos.com/licecap/`, `https://github.com/Watfaq/PowerSession` ひいては `https://github.com/chris17453/ttygif/`を試そう
 
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
