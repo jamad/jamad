@@ -2,7 +2,9 @@
 
 編集は[ここ](https://github.com/jamad/jamad/edit/main/README.md)から
 
+
 * devlog 統合しないと、、、、　https://jamad.github.io/devlog/
+* あと　`https://github.com/Watfaq/PowerSession` を試そう
 
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
