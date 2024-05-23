@@ -5,6 +5,7 @@
 
 * devlog 統合しないと、、、、　https://jamad.github.io/devlog/
 * あと　`https://www.cockos.com/licecap/`,`https://github.com/Watfaq/PowerSession-rs`,  `https://github.com/Watfaq/PowerSession` , `https://docs.asciinema.org/manual/agg/?h=gif`, `https://github.com/chris17453/ttygif/`を試そう
+* `https://github.com/faressoft/terminalizer` は windowsもサポートしているな、、先に試したほうがいいかも
 
 ### [webpage jamad.github.io/](https://jamad.github.io/)
 
