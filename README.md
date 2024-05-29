@@ -4,7 +4,7 @@
 
 
 
-* devlog 統合しないと、、、、（wiki が良さそうな予感　>> いや待て なるべく gist を活用した方がいい　secret gist でコントロールもできるし）[てゆーか、画像も張れるじゃん ](https://gist.github.com/jamad/2d31b6729c05935f95b2b9c6d1519964)　https://jamad.github.io/devlog/
+* devlog 統合しないと、、、、（wiki が良さそうな予感　>> いや待て なるべく gist を活用した方がいい　secret gist でコントロールもできるし）[てゆーか、画像も張れるじゃん ](https://gist.github.com/jamad/2d31b6729c05935f95b2b9c6d1519964)　後の懸念は[検索についてくらいか](https://gist.github.com/jamad/4dca2d866a099b7b80b6522f51a5a4a2)　https://jamad.github.io/devlog/
 * あと　`https://www.cockos.com/licecap/`,`https://github.com/Watfaq/PowerSession-rs`,  `https://github.com/Watfaq/PowerSession` , `https://docs.asciinema.org/manual/agg/?h=gif`, `https://github.com/chris17453/ttygif/`を試そう
 * `https://github.com/faressoft/terminalizer` は windowsもサポートしているな、、先に試したほうがいいかも
 
