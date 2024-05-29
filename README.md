@@ -3,7 +3,8 @@
 編集は[ここ](https://github.com/jamad/jamad/edit/main/README.md)から
 
 
-* devlog 統合しないと、、、、（wiki が良さそうな予感）　https://jamad.github.io/devlog/
+
+* devlog 統合しないと、、、、（wiki が良さそうな予感　>> いや待て なるべく gist を活用した方がいい　secret gist でコントロールもできるし）　https://jamad.github.io/devlog/
 * あと　`https://www.cockos.com/licecap/`,`https://github.com/Watfaq/PowerSession-rs`,  `https://github.com/Watfaq/PowerSession` , `https://docs.asciinema.org/manual/agg/?h=gif`, `https://github.com/chris17453/ttygif/`を試そう
 * `https://github.com/faressoft/terminalizer` は windowsもサポートしているな、、先に試したほうがいいかも
 
