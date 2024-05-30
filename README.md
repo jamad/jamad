@@ -2,6 +2,8 @@
 
 編集は[ここ](https://github.com/jamad/jamad/edit/main/README.md)から
 
+* todo need to check [mermaid](https://github.com/jamad/markdown_devlog/blob/main/mermaid_graph%E9%96%A2%E9%80%A3%E3%83%A1%E3%83%A2.md) 
+
 
 
 * devlog 統合しないと、、、、（wiki が良さそうな予感　>> いや待て なるべく gist を活用した方がいい　secret gist でコントロールもできるし）[てゆーか、画像も張れるじゃん ](https://gist.github.com/jamad/2d31b6729c05935f95b2b9c6d1519964)　後の懸念は[検索についてくらいか](https://gist.github.com/jamad/4dca2d866a099b7b80b6522f51a5a4a2)　https://jamad.github.io/devlog/
