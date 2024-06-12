@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
 
 
-* current focus on https://github.com/jamad/Kanixian
+## current focus : https://github.com/jamad/Kanixian
 
 |よく使うテスト画像|-|
 |-|-|
