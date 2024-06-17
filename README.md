@@ -3,7 +3,7 @@
 
 ## current focus : https://github.com/jamad/Kanixian
 
-|よく使うテスト画像|-|
+||よく使うテスト画像|
 |-|-|
 |![](https://github.com/jamad/jamad.github.io/blob/master/jam_clock_icon.png)|`https://github.com/jamad/jamad.github.io/blob/master/jam_clock_icon.png`|
 |![](https://raw.githubusercontent.com/jamad/jamad.github.io/master/jam_clock_icon.png)|`https://raw.githubusercontent.com/jamad/jamad.github.io/master/jam_clock_icon.png`|
