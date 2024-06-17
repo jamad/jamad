@@ -11,4 +11,5 @@
 
 
 
-* [devlog home](https://github.com/jamad/markdown_devlog/blob/main/README.md) 
+* [devlog home](https://github.com/jamad/markdown_devlog/blob/main/README.md)
+* https://github.com/jamad/jamad.github.io
