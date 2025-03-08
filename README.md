@@ -1,6 +1,8 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
 
-* current focus : https://github.com/jamad/Kanixian
+* current focus
+  * https://github.com/jamad/Pixelorama
+  * https://github.com/jamad/Kanixian
 
 |-|よく使うテスト画像 と表示サイズ変更|
 |-|-|
