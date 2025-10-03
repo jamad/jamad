@@ -12,3 +12,7 @@
 
 ## [devlog home](https://github.com/jamad/markdown_devlog/blob/main/README.md)
 ## https://github.com/jamad/jamad.github.io
+
+
+[quick note](https://gist.github.com/jamad/9d468fcd5f94cfcd8bc7c4573835584b)
+
