@@ -14,3 +14,13 @@
 
 [quick note](https://gist.github.com/jamad/9d468fcd5f94cfcd8bc7c4573835584b)
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEJBQQMWT9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QEJBQQMWT9');
+</script>
