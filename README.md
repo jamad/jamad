@@ -1,8 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
 
 
-## obsolete contents
-* https://jamad.github.io/quiz_vocabulary/index.html
 
 |-|よく使うテスト画像 と表示サイズ変更|
 |-|-|
